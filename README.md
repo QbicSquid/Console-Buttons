@@ -1,2 +1,2 @@
 # Console-Buttons
-Creates clickable buttons in a windows console.
+Creates clickable buttons in a Windows console.
